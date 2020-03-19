@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        
+	<file>res/guy.png</file>
+	<file>res/sperm.png</file>
+	<file>res/sperm2.png</file>
+	<file>res/mountaintop.png</file>
+	<file>res/tomorrow.png</file>
+	<file>res/rion.png</file>
+	<file>res/julia.png</file>
+	<file>res/condom.png</file>
+	<file>res/condom2.png</file>
+	<file>res/GG.png</file>
+	<file>res/white.png</file>
+    </qresource>
+</RCC>
